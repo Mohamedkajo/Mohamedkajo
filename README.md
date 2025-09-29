@@ -44,29 +44,69 @@ Core strengths: module development, secure record rules, API integrations, perfo
 
 ---
 
-## 🚀 Experience (Selected)
-**Senior Python Odoo Developer — AICTEC Advance International Co., Saudi Arabia**  
+## 🚀 Experience
+
+### **Senior Python Odoo Developer — AICTEC Advance International Co., Saudi Arabia**  
 *May 2021 – Present*  
-- Delivered Odoo solutions for Sales, Inventory, Accounting & CRM.  
-- Built QWeb reports (PDF/XLSX) and implemented record rules & ACLs.  
-- Integrated third-party APIs and managed production deployments (Nginx, SSL).
+- Designed and customized Odoo ERP solutions (Sales, Inventory, Accounting, CRM).  
+- Developed custom modules, implemented record rules & security policies.  
+- Generated custom QWeb reports (PDF/XLSX).  
+- Integrated Odoo with third-party APIs (REST).  
+- Managed server deployment: Linux, Nginx, SSL/TLS.  
+- Worked with cross-functional teams to align solutions with business goals.
 
-**Senior Python Odoo Developer — Touch Business Solutions (Part-Time), Saudi Arabia**  
+### **Senior Python Odoo Developer — Touch Business Solutions (Part-Time), Saudi Arabia**  
 *Apr 2024 – Sep 2024*  
-- Led the dev team: code reviews, best practices, and mentoring.
+- Led Odoo team: code reviews, mentoring, and enforcing best practices.  
+- Oversaw sprint planning and client delivery.
 
-**Senior Python Odoo Developer — Top Genius Solutions (Part-Time), Egypt**  
-*Oct 2024 – Present*
+### **Senior Python Odoo Developer — Top Genius Solutions (Part-Time), Egypt**  
+*Oct 2024 – Present*  
+- Managed Odoo development team.  
+- Task assignment, sprint planning, and code reviews.  
+- Trained junior and mid-level developers.
 
-**Python Odoo Developer — Ideal Solution (Part-Time), Egypt**  
-*Jan 2022 – May 2023*
+### **Python Odoo Developer — Ideal Solution (Part-Time), Egypt**  
+*Jan 2022 – May 2023*  
+- Customized and deployed Odoo modules for retail, manufacturing, medical, and education.  
+- Developed reports and integrated Odoo with other systems.  
 
-**Mobile App Technical Lead — Aljeraisy HR, Saudi Arabia**  
+### **Mobile App Technical Lead — Aljeraisy HR, Saudi Arabia**  
 *Feb 2021 – Jan 2022*  
-- Led mobile development and Odoo backend integration.
+- Led Android/iOS mobile app development.  
+- Ensured Odoo backend integration with mobile apps.  
+- Optimized performance and security.
 
-**Mobile Android Developer — Mob Leaders Software (Freelance)**  
-*2020*
+### **Mobile Android Developer — Mob Leaders Software (Freelance)**  
+*2020*  
+- Designed and delivered mobile apps integrated with Odoo REST APIs.
+
+---
+
+## 🏢 Client Companies
+
+- **KAF Roasters — Odoo v15** (*Jan 2022 – Present*)  
+  Full ERP implementation: Sales, Inventory, Accounting, and POS.
+
+- **WEJHA (Digital Signage CMS Company) — Odoo v16** (*Jan 2023 – Present*)  
+  Odoo Framework, Module Development, QWeb Reports, Record Rules, Security.
+
+- **Arsan First Contracting Company — Odoo v16** (*Jan 2024 – Present*)  
+  Custom modules and API integrations.
+
+- **Musahm — Odoo v16** (*Dec 2024 – Present*)  
+  ERP deployment and system customization.
+
+- **Alam — Odoo v16** (*Jan 2024 – Present*)  
+  Industry-specific ERP solutions.
+
+- **Union Systems for Information Technology — Odoo v16** (*Jan 2025 – Present*)  
+  End-to-end ERP implementation with advanced security and access control.
+
+- **Leen Alkhair Trading Co.** (*Sep 2020 – May 2021*)  
+  Supported food supply & national security mission. Customized Odoo modules and managed deployments.
+
+---
 
 ---
 
