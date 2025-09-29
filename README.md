@@ -8,27 +8,26 @@
 
 ## 📜 Certifications & Awards
 
-<p align="center">
-  <figure style="display:inline-block; text-align:center; margin:15px;">
-    <img src="assets/IDEAL.jpeg" alt="Ideal Solution Certificate" width="300"/>
-    <figcaption><b>Ideal Solution</b><br/>Awarded June 20, 2022</figcaption>
-  </figure>
-  <figure style="display:inline-block; text-align:center; margin:15px;">
-    <img src="assets/AICTEC .jpeg" alt="AICTEC Certificate" width="300"/>
-    <figcaption><b>AICTEC Advance International Co.</b><br/>Awarded Dec 3, 2024</figcaption>
-  </figure>
-</p>
-
-<p align="center">
-  <figure style="display:inline-block; text-align:center; margin:15px;">
-    <img src="assets/inov2.png" alt="Innovation Certificate" width="300"/>
-    <figcaption><b>Innovation Award</b><br/>Year — (add date here)</figcaption>
-  </figure>
-  <figure style="display:inline-block; text-align:center; margin:15px;">
-    <img src="assets/inov1.png" alt="Fourth Certificate" width="300"/>
-    <figcaption><b>Another Certificate</b><br/>Year — (add date here)</figcaption>
-  </figure>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="assets/IDEAL.jpeg" alt="Ideal Solution Certificate" width="200"/><br/>
+      <sub><b>Ideal Solution</b><br/>Awarded Jun 20, 2022</sub>
+    </td>
+    <td align="center">
+      <img src="assets/AICTEC .jpeg" alt="AICTEC Certificate" width="200"/><br/>
+      <sub><b>AICTEC Advance Int. Co.</b><br/>Awarded Dec 3, 2024</sub>
+    </td>
+    <td align="center">
+      <img src="assets/inov2.png" alt="Innovation Certificate" width="200"/><br/>
+      <sub><b>Innovation Award</b><br/> sep 9,2014</sub>
+    </td>
+    <td align="center">
+      <img src="assets/inov1.png" alt="Itida Certificate" width="200"/><br/>
+      <sub><b>Itida Certificate</b><br/> sep 9,2014</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
