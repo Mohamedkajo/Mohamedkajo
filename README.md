@@ -20,7 +20,7 @@
     </td>
     <td align="center">
       <img src="assets/inov2.png" alt="Innovation Certificate" width="200"/><br/>
-      <sub><b>Innovation Award</b><br/> Awarded sep 9,2014</sub>
+      <sub><b>Innovation Certificate</b><br/> Awarded sep 9,2014</sub>
     </td>
     <td align="center">
       <img src="assets/inov1.png" alt="Itida Certificate" width="200"/><br/>
