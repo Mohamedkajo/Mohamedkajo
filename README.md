@@ -42,7 +42,7 @@ Passionate Software Engineer & Odoo Developer with hands-on experience designing
 Core strengths: module development, secure record rules, API integrations, performance tuning, and mobile-backend integration.
 
 **Core areas**
-- Odoo customization & module development (v12 → v17)  
+- Odoo customization & module development (v12 → v19)  
 - Backend: Python, PostgreSQL, ORM patterns, security & record rules  
 - Frontend: OWL, XML, QWeb, JavaScript  
 - DevOps: Linux, Nginx, SSL/TLS, Docker  
