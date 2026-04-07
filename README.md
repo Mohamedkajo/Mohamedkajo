@@ -11,7 +11,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="assets/AI.jpeg" alt="Madarek Academy Certificate" width="500"/><br/>
+      <img src="assets/AI.jpeg" alt="Madarek Academy Certificate" width="200"/><br/>
       <sub><b>Madarek Academy</b><br/>Awarded March 8, 2026<br/>"AI Prompt Engineering"</sub>
     </td>
   </tr>
