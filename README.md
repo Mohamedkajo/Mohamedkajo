@@ -11,6 +11,12 @@
 <table align="center">
   <tr>
     <td align="center">
+      <img src="assets/AI.jpeg" alt="Madarek Academy Certificate" width="200"/><br/>
+      <sub><b>Madarek Academy</b><br/>Awarded March 8, 2026<br/>"AI Prompt Engineering"</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <img src="assets/IDEAL.jpeg" alt="Ideal Solution Certificate" width="200"/><br/>
       <sub><b>Ideal Solution</b><br/>Awarded Jun 20, 2022</sub>
     </td>
@@ -20,11 +26,11 @@
     </td>
     <td align="center">
       <img src="assets/inov2.png" alt="Innovation Certificate" width="200"/><br/>
-      <sub><b>Innovation Certificate</b><br/> Awarded sep 9,2014</sub>
+      <sub><b>Innovation Certificate</b><br/> Awarded sep 9, 2014</sub>
     </td>
     <td align="center">
       <img src="assets/inov1.png" alt="Itida Certificate" width="200"/><br/>
-      <sub><b>Itida Certificate</b><br/> Awarded sep 9,2014</sub>
+      <sub><b>Itida Certificate</b><br/> Awarded sep 9, 2014</sub>
     </td>
   </tr>
 </table>
