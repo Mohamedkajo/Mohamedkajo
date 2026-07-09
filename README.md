@@ -14,6 +14,23 @@
       <img src="assets/AI.jpeg" alt="Madarek Academy Certificate" width="200"/><br/>
       <sub><b>Madarek Academy</b><br/>Awarded March 8, 2026<br/>"AI Prompt Engineering"</sub>
     </td>
+    <td align="center">
+  <img src="assets/AI_generate.jpg" alt="Generate To Create" width="200"/><br/>
+  <sub>
+    <b>Madarek Academy</b><br/>
+    Awarded May 24, 2026<br/>
+    "Generate To Create"
+  </sub>
+</td>
+
+<td align="center">
+  <img src="assets/AI_hacks.png" alt="AI Hacks" width="200"/><br/>
+  <sub>
+    <b>Madarek Academy</b><br/>
+    Awarded June 26, 2026<br/>
+    "AI Hacks"
+  </sub>
+</td>
   </tr>
   <tr>
     <td align="center">
