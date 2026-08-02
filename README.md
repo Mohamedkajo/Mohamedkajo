@@ -33,6 +33,26 @@
 </td>
   </tr>
   <tr>
+  <td align="center">
+  <img src="assets/KANZ_Guinness.jpeg" alt="KANZ Guinness World Records Certificate" width="200"/><br/>
+  <sub>
+    <b>KANZ AI & Ministry of Human Resources and Social Development</b><br/>
+    Awarded July 15, 2026<br/>
+    "Guinness World Records™ Event"<br/>
+    Most users in an AI video lesson<br/>
+    <b>14,075 Participants</b>
+  </sub>
+</td>
+  <td align="center">
+  <img src="assets/KANZ_AI.jpeg" alt="KANZ AI Certificate" width="200"/><br/>
+  <sub>
+    <b>KANZ AI</b><br/>
+    Awarded July 2026<br/>
+    "AI Training Hackathon"<br/>
+    <b>Featured Project:</b><br/>
+    Cargo: Intelligent Logistics & Hyper-Local Marketplace
+  </sub>
+</td>
     <td align="center">
       <img src="assets/IDEAL.jpeg" alt="Ideal Solution Certificate" width="200"/><br/>
       <sub><b>Ideal Solution</b><br/>Awarded Jun 20, 2022</sub>
