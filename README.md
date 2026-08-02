@@ -42,10 +42,11 @@ Most users in an AI video lesson<br/>
 <br/>
 
 <sub>
-<b>KANZ AI</b><br/>
+<b>AI Training Hackathon</b>
+     <br/>
 Awarded July 2026<br/>
-AI Training Hackathon<br/>
-<b>Featured Project:</b><br/>
+
+<b> Project:</b> 
 Cargo: Intelligent Logistics & Hyper-Local Marketplace
 </sub>
 
