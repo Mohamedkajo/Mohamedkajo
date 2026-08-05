@@ -4,18 +4,13 @@
 💻 Senior Odoo & Python Developer | ERP Solutions | API Integrations | Mobile Apps (Flutter/Android)
 </p>
 
----
-
-
 <table align="center">
 
 <tr>
-
-<td align="center" colspan="3">
-
+<td align="center" colspan="2">
 <img src="assets/KANZ.jpg"
      alt="KANZ Guinness World Records Certificate"
-     width="450"/>
+     width="500"/>
 
 <br/>
 
@@ -26,37 +21,24 @@ Awarded July 15, 2026<br/>
 Most users in an AI video lesson<br/>
 <b>14,075 Participants</b>
 </sub>
-
 </td>
-
 </tr>
 
-
 <tr>
-
 <td align="center">
-
-<img src="assets/KANZ AI Certificate.png"
-     width="250"/>
+<img src="assets/KANZ AI Certificate.png" width="260"/>
 
 <br/>
 
 <sub>
-<b>AI Training Hackathon</b>
-     <br/>
+<b>AI Training Hackathon</b><br/>
 Awarded July 2026<br/>
-
-<b> Project:</b> 
-Cargo: Intelligent Logistics & Hyper-Local Marketplace
+<b>Project:</b> Cargo: Intelligent Logistics & Hyper-Local Marketplace
 </sub>
-
 </td>
 
-
 <td align="center">
-
-<img src="assets/AI.jpeg"
-     width="250"/>
+<img src="assets/AI.jpeg" width="260"/>
 
 <br/>
 
@@ -65,14 +47,12 @@ Cargo: Intelligent Logistics & Hyper-Local Marketplace
 Awarded March 8, 2026<br/>
 AI Prompt Engineering
 </sub>
-
 </td>
+</tr>
 
-
+<tr>
 <td align="center">
-
-<img src="assets/AI_generate.jpg"
-     width="250"/>
+<img src="assets/AI_generate.jpg" width="260"/>
 
 <br/>
 
@@ -81,18 +61,10 @@ AI Prompt Engineering
 Awarded May 24, 2026<br/>
 Generate To Create
 </sub>
-
 </td>
 
-</tr>
-
-
-<tr>
-
 <td align="center">
-
-<img src="assets/AI_hacks.png"
-     width="250"/>
+<img src="assets/AI_hacks.png" width="260"/>
 
 <br/>
 
@@ -101,14 +73,12 @@ Generate To Create
 Awarded June 26, 2026<br/>
 AI Hacks
 </sub>
-
 </td>
+</tr>
 
-
+<tr>
 <td align="center">
-
-<img src="assets/IDEAL.jpeg"
-     width="250"/>
+<img src="assets/IDEAL.jpeg" width="260"/>
 
 <br/>
 
@@ -116,14 +86,10 @@ AI Hacks
 <b>Ideal Solution</b><br/>
 Awarded Jun 20, 2022
 </sub>
-
 </td>
 
-
 <td align="center">
-
-<img src="assets/AICTEC .jpeg"
-     width="250"/>
+<img src="assets/AICTEC .jpeg" width="260"/>
 
 <br/>
 
@@ -131,18 +97,12 @@ Awarded Jun 20, 2022
 <b>AICTEC Advance Int. Co.</b><br/>
 Awarded Dec 3, 2024
 </sub>
-
 </td>
-
 </tr>
 
-
 <tr>
-
 <td align="center">
-
-<img src="assets/inov2.png"
-     width="250"/>
+<img src="assets/inov2.png" width="260"/>
 
 <br/>
 
@@ -150,14 +110,10 @@ Awarded Dec 3, 2024
 <b>Innovation Certificate</b><br/>
 Awarded Sep 9, 2014
 </sub>
-
 </td>
 
-
 <td align="center">
-
-<img src="assets/inov1.png"
-     width="250"/>
+<img src="assets/inov1.png" width="260"/>
 
 <br/>
 
@@ -165,14 +121,10 @@ Awarded Sep 9, 2014
 <b>ITIDA Certificate</b><br/>
 Awarded Sep 9, 2014
 </sub>
-
 </td>
-
 </tr>
 
 </table>
-
----
 
 ## 👨‍💻 About Me
 
